@@ -1,4 +1,4 @@
-<x-panel class="flex gap-x-6">
+<x-panel class=" flex gap-x-6">
     <div>
         <x-employer-logo />
     </div>
